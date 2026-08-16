@@ -1,0 +1,11 @@
+{
+  "product": "PianificatoreFiscale",
+  "version": "v1.0.0",
+  "notes": "Prima release dell'app gratuita di Pianificazione Fiscale: motore portato da TaxPlanner Italia con paritÃ  verificata (279 test golden truth su 2024-2027). Simulazione netto annuo/mensile, IRPEF, contributi, trattamento integrativo, bonus cuneo, ulteriore detrazione e decomposizione del cuneo fiscale, con regole fiscali reali caricate da file JSON (addizionali regionali/comunali). Include il profilo contribuente salvato localmente e la nuova grafica condivisa (light/dark).",
+  "windows": {
+    "exe": "PianificatoreFiscale.exe",
+    "updater": "PianificatoreFiscaleUpdater.exe",
+    "release_url": "https://github.com/quadrellif90-collab/pianificatore-fiscale-dist/releases/download/v1.0.0/PianificatoreFiscale.exe",
+    "updater_url": "https://github.com/quadrellif90-collab/pianificatore-fiscale-dist/releases/download/v1.0.0/PianificatoreFiscaleUpdater.exe"
+  }
+}
