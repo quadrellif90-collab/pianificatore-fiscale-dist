@@ -1,0 +1,61 @@
+{
+  "Anno": 2026,
+  "Fonte": "Tabella coefficienti di redditività regime forfettario (aggiornamento ATECO 2025) - 6 coefficienti da 40% a 86%",
+  "SogliaFuoriuscita": 100000,
+  "Coefficienti": [
+    { "CodiceDa": "01", "CodiceA": "03", "Coefficiente": 0.67, "Settore": "Agricoltura, silvicoltura e pesca" },
+    { "CodiceDa": "05", "CodiceA": "09", "Coefficiente": 0.67, "Settore": "Estrattivo" },
+    { "CodiceDa": "10", "CodiceA": "11", "Coefficiente": 0.40, "Settore": "Industrie alimentari e bevande" },
+    { "CodiceDa": "12", "CodiceA": "33", "Coefficiente": 0.67, "Settore": "Altre attività manifatturiere" },
+    { "CodiceDa": "35", "CodiceA": "39", "Coefficiente": 0.67, "Settore": "Energia, acqua e raccolta rifiuti" },
+    { "CodiceDa": "41", "CodiceA": "43", "Coefficiente": 0.86, "Settore": "Costruzioni" },
+    { "CodiceDa": "45", "CodiceA": "45", "Coefficiente": 0.40, "Settore": "Commercio all'ingrosso e al dettaglio di autoveicoli" },
+    { "CodiceDa": "46", "CodiceA": "46", "Coefficiente": 0.62, "Settore": "Intermediari del commercio (agenti e rappresentanti)" },
+    { "CodiceDa": "46.2", "CodiceA": "46.9", "Coefficiente": 0.40, "Settore": "Commercio all'ingrosso" },
+    { "CodiceDa": "47.1", "CodiceA": "47.7", "Coefficiente": 0.40, "Settore": "Commercio al dettaglio" },
+    { "CodiceDa": "47.81", "CodiceA": "47.81", "Coefficiente": 0.40, "Settore": "Commercio ambulante di prodotti alimentari" },
+    { "CodiceDa": "47.82", "CodiceA": "47.89", "Coefficiente": 0.54, "Settore": "Commercio ambulante di altri prodotti" },
+    { "CodiceDa": "47.9", "CodiceA": "47.9", "Coefficiente": 0.40, "Settore": "Commercio al dettaglio ambulante e a distanza" },
+    { "CodiceDa": "49", "CodiceA": "53", "Coefficiente": 0.67, "Settore": "Trasporto e magazzinaggio" },
+    { "CodiceDa": "55", "CodiceA": "56", "Coefficiente": 0.40, "Settore": "Alloggio e ristorazione" },
+    { "CodiceDa": "58", "CodiceA": "63", "Coefficiente": 0.67, "Settore": "Informazione e comunicazione" },
+    { "CodiceDa": "64", "CodiceA": "66", "Coefficiente": 0.78, "Settore": "Attività finanziarie e assicurative" },
+    { "CodiceDa": "68", "CodiceA": "68", "Coefficiente": 0.86, "Settore": "Attività immobiliari" },
+    { "CodiceDa": "69", "CodiceA": "75", "Coefficiente": 0.78, "Settore": "Attività professionali, scientifiche e tecniche" },
+    { "CodiceDa": "77", "CodiceA": "82", "Coefficiente": 0.67, "Settore": "Noleggio, agenzie e servizi di supporto" },
+    { "CodiceDa": "84", "CodiceA": "84", "Coefficiente": 0.67, "Settore": "Pubblica amministrazione e assicurazione sociale" },
+    { "CodiceDa": "85", "CodiceA": "85", "Coefficiente": 0.78, "Settore": "Istruzione" },
+    { "CodiceDa": "86", "CodiceA": "88", "Coefficiente": 0.78, "Settore": "Sanità e assistenza sociale" },
+    { "CodiceDa": "90", "CodiceA": "93", "Coefficiente": 0.67, "Settore": "Attività artistiche, sportive e di intrattenimento" },
+    { "CodiceDa": "94", "CodiceA": "96", "Coefficiente": 0.67, "Settore": "Altre attività di servizi" },
+    { "CodiceDa": "97", "CodiceA": "99", "Coefficiente": 0.67, "Settore": "Servizi domestici e organizzazioni" }
+  ],
+  "ContributiInps": {
+    "MinimaleReddito": 18808,
+    "AliquotaArtigiani": 0.24,
+    "AliquotaCommercianti": 0.2448,
+    "AliquotaEccedenzaArtigiani": 0.25,
+    "AliquotaEccedenzaCommercianti": 0.2548,
+    "SogliaScaglioneEccedenza": 56224,
+    "ContributoMinimoArtigiani": 4521.36,
+    "ContributoMinimoCommercianti": 4611.64,
+    "AliquotaGestioneSeparata": 0.2607,
+    "RiduzioneForfettari": 0.35,
+    "RiduzioneOver65Pensionati": 0.50,
+    "RiduzioneNuoviIscrittiPrimi3Anni": 0.50,
+    "RiduzioneUnder21NuoviIscritti": 0.35,
+    "MassimaleAnte1996": 93707,
+    "MassimaleDal1996": 122295,
+    "AccontoPercentuale": 0.50,
+    "RateFisse": [
+      { "Mese": 5,  "Giorno": 18, "Descrizione": "INPS - 1a rata contributi fissi artigiani/commercianti" },
+      { "Mese": 8,  "Giorno": 20, "Descrizione": "INPS - 2a rata contributi fissi artigiani/commercianti" },
+      { "Mese": 11, "Giorno": 16, "Descrizione": "INPS - 3a rata contributi fissi artigiani/commercianti" },
+      { "Mese": 2,  "Giorno": 16, "Descrizione": "INPS - 4a rata contributi fissi artigiani/commercianti (anno successivo)" }
+    ],
+    "AccontoScadenze": [
+      { "Mese": 6, "Giorno": 30, "Descrizione": "Saldo anno precedente + 1° acconto contributi (gestione separata / eccedenza)" },
+      { "Mese": 11, "Giorno": 30, "Descrizione": "2° acconto contributi previdenziali" }
+    ]
+  }
+}

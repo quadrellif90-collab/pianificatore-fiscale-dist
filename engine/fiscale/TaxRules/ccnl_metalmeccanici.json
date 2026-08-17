@@ -1,0 +1,55 @@
+{
+  "Codice": "METALMECCANICI",
+  "Nome": "CCNL Metalmeccanici industria (minimi tabellari 2026)",
+  "Anno": 2026,
+  "Livelli": [
+    {
+      "Livello": 1,
+      "Qualifica": "Operaio generico / impiegato esecutivo",
+      "MinimoTabellareAnnuale": 24142.00,
+      "MinimoTabellareMensile": 2011.83
+    },
+    {
+      "Livello": 2,
+      "Qualifica": "Operaio comune / impiegato d'ordine",
+      "MinimoTabellareAnnuale": 25060.00,
+      "MinimoTabellareMensile": 2088.33
+    },
+    {
+      "Livello": 3,
+      "Qualifica": "Operaio qualificato / impiegato qualificato",
+      "MinimoTabellareAnnuale": 26025.00,
+      "MinimoTabellareMensile": 2168.75
+    },
+    {
+      "Livello": 4,
+      "Qualifica": "Operaio specializzato / impiegato di concetto",
+      "MinimoTabellareAnnuale": 27040.00,
+      "MinimoTabellareMensile": 2253.33
+    },
+    {
+      "Livello": 5,
+      "Qualifica": "Operaio altamente specializzato / impiegato specializzato",
+      "MinimoTabellareAnnuale": 28100.00,
+      "MinimoTabellareMensile": 2341.67
+    },
+    {
+      "Livello": 6,
+      "Qualifica": "Impiegato quadro / operaio con funzioni di capo",
+      "MinimoTabellareAnnuale": 29220.00,
+      "MinimoTabellareMensile": 2435.00
+    },
+    {
+      "Livello": 7,
+      "Qualifica": "Quadro / funzioni direttive",
+      "MinimoTabellareAnnuale": 30400.00,
+      "MinimoTabellareMensile": 2533.33
+    },
+    {
+      "Livello": 8,
+      "Qualifica": "Quadro superiore / funzioni direttive elevate",
+      "MinimoTabellareAnnuale": 31640.00,
+      "MinimoTabellareMensile": 2636.67
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "Version": 1,
+  "Scadenze": [
+    { "Mese": 1,  "Giorno": 16, "Descrizione": "Versamento IVA mensile di dicembre", "Tipo": "Versamento", "Ente": "Agenzia Entrate" },
+    { "Mese": 1,  "Giorno": 31, "Descrizione": "Trasmissione Certificazione Unica 2025 (CUD)", "Tipo": "Dichiarazione", "Ente": "Agenzia Entrate" },
+    { "Mese": 2,  "Giorno": 16, "Descrizione": "Versamento IVA mensile di gennaio", "Tipo": "Versamento", "Ente": "Agenzia Entrate" },
+    { "Mese": 2,  "Giorno": 16, "Descrizione": "Versamento contributi INPS (rata)", "Tipo": "Contributiva", "Ente": "INPS" },
+    { "Mese": 3,  "Giorno": 16, "Descrizione": "Versamento IVA mensile di febbraio", "Tipo": "Versamento", "Ente": "Agenzia Entrate" },
+    { "Mese": 3,  "Giorno": 31, "Descrizione": "Trasmissione modello 770", "Tipo": "Dichiarazione", "Ente": "Agenzia Entrate" },
+    { "Mese": 4,  "Giorno": 16, "Descrizione": "Versamento IVA mensile di marzo", "Tipo": "Versamento", "Ente": "Agenzia Entrate" },
+    { "Mese": 4,  "Giorno": 30, "Descrizione": "Presentazione modello IVA annuale", "Tipo": "Dichiarazione", "Ente": "Agenzia Entrate" },
+    { "Mese": 5,  "Giorno": 16, "Descrizione": "Versamento IVA mensile di aprile", "Tipo": "Versamento", "Ente": "Agenzia Entrate" },
+    { "Mese": 5,  "Giorno": 16, "Descrizione": "Versamento contributi INPS (rata)", "Tipo": "Contributiva", "Ente": "INPS" },
+    { "Mese": 6,  "Giorno": 16, "Descrizione": "Versamento IVA mensile di maggio", "Tipo": "Versamento", "Ente": "Agenzia Entrate" },
+    { "Mese": 6,  "Giorno": 16, "Descrizione": "Saldo e primo acconto IRPEF/IRES/IRAP", "Tipo": "Fiscale", "Ente": "Agenzia Entrate" },
+    { "Mese": 6,  "Giorno": 30, "Descrizione": "Presentazione modello Redditi (persone fisiche)", "Tipo": "Dichiarazione", "Ente": "Agenzia Entrate" },
+    { "Mese": 7,  "Giorno": 16, "Descrizione": "Versamento IVA mensile di giugno", "Tipo": "Versamento", "Ente": "Agenzia Entrate" },
+    { "Mese": 7,  "Giorno": 31, "Descrizione": "Presentazione modello Redditi SC/SP/ENC", "Tipo": "Dichiarazione", "Ente": "Agenzia Entrate" },
+    { "Mese": 8,  "Giorno": 16, "Descrizione": "Versamento IVA mensile di luglio", "Tipo": "Versamento", "Ente": "Agenzia Entrate" },
+    { "Mese": 8,  "Giorno": 16, "Descrizione": "Versamento contributi INPS (rata)", "Tipo": "Contributiva", "Ente": "INPS" },
+    { "Mese": 8,  "Giorno": 20, "Descrizione": "INPS - 2a rata contributi fissi artigiani/commercianti", "Tipo": "Contributiva", "Ente": "INPS" },
+    { "Mese": 9,  "Giorno": 16, "Descrizione": "Versamento IVA mensile di agosto", "Tipo": "Versamento", "Ente": "Agenzia Entrate" },
+    { "Mese": 9,  "Giorno": 16, "Descrizione": "Secondo acconto IMU", "Tipo": "Versamento", "Ente": "Comuni" },
+    { "Mese": 9,  "Giorno": 30, "Descrizione": "Presentazione 730 con sostituto d'imposta", "Tipo": "Dichiarazione", "Ente": "Agenzia Entrate" },
+    { "Mese": 10, "Giorno": 16, "Descrizione": "Versamento IVA mensile di settembre", "Tipo": "Versamento", "Ente": "Agenzia Entrate" },
+    { "Mese": 10, "Giorno": 31, "Descrizione": "Presentazione modello Redditi persone fisiche senza sostituto", "Tipo": "Dichiarazione", "Ente": "Agenzia Entrate" },
+    { "Mese": 11, "Giorno": 16, "Descrizione": "Versamento IVA mensile di ottobre", "Tipo": "Versamento", "Ente": "Agenzia Entrate" },
+    { "Mese": 11, "Giorno": 16, "Descrizione": "Versamento contributi INPS (rata)", "Tipo": "Contributiva", "Ente": "INPS" },
+    { "Mese": 11, "Giorno": 30, "Descrizione": "Secondo acconto IRPEF/IRES/IRAP (novembre)", "Tipo": "Fiscale", "Ente": "Agenzia Entrate" },
+    { "Mese": 12, "Giorno": 16, "Descrizione": "Versamento IVA mensile di novembre", "Tipo": "Versamento", "Ente": "Agenzia Entrate" },
+    { "Mese": 12, "Giorno": 16, "Descrizione": "Saldo IMU", "Tipo": "Versamento", "Ente": "Comuni" }
+  ]
+}
